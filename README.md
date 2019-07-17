@@ -13,7 +13,7 @@ ShoppingList-Software
 <a href="https://gluonhq.com/products/javafx/">install JavaFx Jar file here</a>
 
 ## How to use
-<p> You need to install the jarfile above, and the path into the compiler. Then, you will be able to run the program </p>
+<p> if you are using the intellij , you need to create your project with javafx. Next, download the jar file and add the path into evironment that you have created with javafx</p>
 
 ## Description
 <p>The software allows the user to add , delete, modify their shopping list items as according to the needs of the customer. It also allow 
